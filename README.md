@@ -34,12 +34,10 @@ Java JDK 8 or later
 IDE (Eclipse, IntelliJ) or Notepad++ with command line
 
 💡 Credits
-
 👨‍💻 Developed by Shubham Pathak
 📚 For learning and practicing Java Swing GUI development
 
 👉 Save this in your repo as **`README.md`** (using Notepad++ → File → Save As → `README.md`).  
 When you push this to GitHub, it will display just like your screenshot example.  
-
 Do you also want me to design a **GitHub repository cover image (banner)** that matches this README style?
 
